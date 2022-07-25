@@ -152,7 +152,12 @@ background-size: cover;
 }
 .fil{
     
-    filter: brightness(20000%);
+    filter: brightness(10000%);
+
+}
+.soc {
+    
+    filter: brightness(9000%);
 
 }
 .first{
